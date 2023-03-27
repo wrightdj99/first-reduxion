@@ -6,7 +6,7 @@ import ChangeColor from './components/ChangeColor';
 function App() {
   return (
     <div className="App">
-      <h1>Hi there everyone</h1>
+      <h1>Redux Slice Proof Of Concept</h1>
       <Profile/>
       <Login/>
       <ChangeColor/>
